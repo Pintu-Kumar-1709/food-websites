@@ -36,7 +36,7 @@ food-delivery-website/
 │-- style.css
 │-- script.js
 │-- /images
-│-- /assets
+
 
 
 
